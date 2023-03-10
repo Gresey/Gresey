@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gresey&label=Profile%20views&color=0e75b6&style=flat" alt="gresey" /> </p>
 
 - 🌱 I’m currently learning **android development in Java and Kotlin**
-
+ -I’m working on **Data Structures and Algorithms**
 - 💬 Ask me about **Java,C++,Android**
 
 - 📫 How to reach me **greseypatidar100@gmail.com**
