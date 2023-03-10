@@ -8,7 +8,6 @@
 - 🌱 I’m good at **android development in Java and Kotlin**
 -    I’m working on **Data Structures and Algorithms**
 - 💬 Ask me about **Java,C++,Android**
-
 - 📫 How to reach me **greseypatidar100@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
