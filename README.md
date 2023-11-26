@@ -7,7 +7,7 @@
 
 - 🌱 I’m good at **android development**
 -    I’m working on **Data Structures and Algorithms**
-- 💬 Ask me about **Java,C++,Android**
+- 💬 Ask me about **Java,C++,Flutter,Android**
 - 📫 How to reach me **greseypatidar100@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
