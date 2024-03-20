@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gresey&label=Profile%20views&color=0e75b6&style=flat" alt="gresey" /> </p>
 
-- 🌱 I’m good at **android development**
+- 🌱 I’m good at **Mobile App Development**
 -    I’m working on **Data Structures and Algorithms**
 - 💬 Ask me about **Java,C++,Flutter,Android**
 - 📫 How to reach me **greseypatidar100@gmail.com**
@@ -13,7 +13,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/gresey-patidar-31bb1322b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/gresey-patidar-31bb1322b" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/greseypatidar100" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@greseypatidar100" height="30" width="40" /></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
