@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Gresey Patidar</h1>
 <h3 align="center">A passionate developer and competitive programmer</h3>
-<img align="right"alt="Coding width="400 src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gresey&label=Profile%20views&color=0e75b6&style=flat" alt="gresey" /> </p>
 
