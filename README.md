@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gresey&label=Profile%20views&color=0e75b6&style=flat" alt="gresey" /> </p>
 
-- 🌱 I’m a **Mobile App Developer**
-- 🔍 I’m currently focusing on **Data Structures and Algorithms**
 - 📫 How to reach me: **greseypatidar100@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
@@ -63,6 +61,6 @@
   </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gresey&show_icons=true&locale=en&layout=compact" alt="gresey" /></p>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gresey&show_icons=true&locale=en&layout=compact" alt="gresey" />
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gresey&" alt="gresey" /></p>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gresey&" alt="gresey" />
